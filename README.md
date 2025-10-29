@@ -40,7 +40,7 @@ The project aims to help students understand how factors like attendance, study 
 4. Feature Selection based on correlation.
 5. Model Training & Evaluation:
    - XGBoost, Naive Bayes, Logistic Regression, Decision Tree.
-   - Metrics: Accuracy and Classification Report.
+   - Model Perfomance Comparison Table.
 6. Deployment using Gradio for interactive predictions.
 
 ---
