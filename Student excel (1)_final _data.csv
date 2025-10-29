@@ -1,0 +1,49 @@
+Timestamp,Course or Major,Average Study Hours per Week,Attendance Percentage,MidTerm Quiz Score,Revision Frequency,Participation in Class,Average Sleep Hours per Night,Internet Usage Hours (per day),Final Result Grade
+10/25/2025 23:09:02,Diploma in Robotics and Automation,14,100,85.5,2-3 times,High,6,5,A
+10/25/2025 23:14:28,Computer science,12,88,70,2-3 times,Medium,6,6,C
+10/25/2025 23:15:00,Bachelor of Computer Science,10,80,60,2-3 times,Medium,6,7,B
+10/25/2025 23:16:45,Computer science,3,100,70,2-3 times,Medium,5,8,A
+10/25/2025 23:21:57,Computer science major in AI,1,96,85,Only before exams,High,5,12,A
+10/25/2025 23:28:00,Cybersecurity,24,100,80,Daily,High,6,10,A
+10/25/2025 23:30:14,Bachelor of Business,9,100,75,Daily,Medium,7,7,A
+10/25/2025 23:35:58,Course,21,99,80,2-3 times,High,6,13,B
+10/25/2025 23:39:58,Business Administration,8,90,90,2-3 times,High,7,20,B
+10/26/2025 0:05:07,LLB(honours),14,85,75,Daily,High,6,16,B
+10/26/2025 0:13:36,Diploma In Psychology,5,90,95,2-3 times,Medium,8,6,B
+10/26/2025 0:34:40,Bachelor in Business Administration,5,90,70,Once,High,6,10,B
+10/26/2025 0:35:44,,30,100,75,2-3 times,Medium,5.5,4,A
+10/26/2025 1:04:11,Information technology cybersecurity,19,50,80,2-3 times,Medium,6,10,B
+10/26/2025 1:05:50,Bachelor in IT,3,80,60,2-3 times,High,4,4,B
+10/26/2025 1:17:43,Bachelor of Business,28,86,72,Daily,Low,3.5,7,A
+10/26/2025 1:26:00,Business Accounting,10,90,98,Whenever needed,High,8,3,A
+10/26/2025 8:20:21,BBA,6,90,70,2-3 times,Medium,5,3,B
+10/26/2025 12:38:35,Computer science,1,99,75,Once,High,6,8,B
+10/26/2025 12:49:45,ICT,2,95,70,2-3 times,High,8,12,B
+10/26/2025 15:08:25,Computer science,40,82,70,Once,Medium,6,6,B
+10/26/2025 19:51:14,,35,95,50,Daily,Medium,7,4,C
+10/26/2025 20:22:53,Actuarial studies,4,80,70,2-3 times,Medium,5,12,B
+10/26/2025 21:30:02,Alevel,45,100,85,Daily,Medium,6,15,A
+10/26/2025 22:00:53,Psychology,7,90,80,2-3 times,Medium,7,9,B
+10/26/2025 22:51:58,Degree in computer science,14,90,75,Daily,High,6,10,B
+10/28/2025 18:52:47,law,18,70,50,2-3 times,Medium,8,4,C
+,,3,40,30,Never,low,4,8,F
+,,5,60,45,Once,medieum,5,4,D
+,,1,30,33,Never,Low,5.5,7,E
+,,6,66,65,2-3 times,Medium,6,5,D
+,,3,40,55,Never,Low,5,8,F
+,,2,55,30,Once,Low,5,7,E
+,,2,57,55,Never,Medium,6,5,D
+,,2,45,40,Never,Low,5,9,F
+,,4,50,55,Once,Low,4.5,10,E
+,,1,35,30,Never,Low,5,11,F
+,,3,60,45,Once,Medium,5.5,8,D
+,,5,40,50,Once,Low,6,12,E
+,,2,55,35,Never,Low,4,7,F
+,,4,70,60,Only before exams,Medium,6,10,D
+,,3,50,40,Never,Low,5.5,9,F
+,,1,30,25,Never,Low,4,8,F
+,,2,45,35,Once,Low,6,6,E
+27/10/2025,Diploma in Business,7,65,50,Once,Medium,6,11,F
+27/10/2025,ICT,5,58,42,Only before exam,Low,5,8,F
+29/10/2025,Data Analytics,6,62,48,2-3 times,Medium,5.5,10,F
+29/10/2025,Diploma in Computing,4,55,35,Never,Low,6,9,F
