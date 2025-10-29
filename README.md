@@ -82,7 +82,9 @@ It predicts the **final grade** and provides **study improvement suggestions**.
 ## 📸 Screenshots
 - Gradio Interface Output added in the ipynb file
 ## Google Form ScreenShot
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e02b7e8a-9b4d-4c9d-a2b2-894866be3bb4" />
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cca64f27-1403-44f1-a071-ee87088b785f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f34cf3d5-04b0-4b36-bf56-046c95e4f14c" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fba1ce04-42cf-41fd-9ae1-bbe7bb59353e" />
+
+
 
 
